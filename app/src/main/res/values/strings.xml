@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Watch</string>
+    <string name="menu_search">Search</string>
+    <string name="query_hint">Search for a show, movie, genre etc</string>
+    <string name="vote_count">%1$d Votes</string>
+    <string name="generes">Generes</string>
+    <string name="overview">Overview</string>
+
+</resources>
